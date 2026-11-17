@@ -5,6 +5,7 @@
 - 首页：`index.html`
 - 隐私政策：`privacy.html`
 - 使用与支持：`support.html`
+- X 授权图文教程：`x-setup.html`
 - 样式与图标：`styles.css`、`assets/logo.svg`
 
 部署使用 GitHub Pages，来源为 `main` 分支根目录。`.nojekyll` 禁用 Jekyll 处理。静态站无需服务器运行环境；本地可临时用任意静态文件服务器预览。
